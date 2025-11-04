@@ -1,0 +1,27 @@
+{
+  "name": "@yangfan/toolkit_core",
+  "version": "1.0.0",
+  "description": "SSY 鸿蒙工具集 - 核心基础工具包",
+  "main": "Index.ets",
+  "author": "yangfan",
+  "license": "Apache-2.0",
+  "keywords": [
+    "harmonyos",
+    "toolkit",
+    "core",
+    "string",
+    "date",
+    "math",
+    "device"
+  ],
+  "repository": "https://github.com/TechSavvyBinjie/Test_02.git",
+  "homepage": "https://github.com/your_username/Test_02",
+  "bugs": {
+    "url": "https://github.com/your_username/Test_02/issues",
+    "email": "2309932069@qq.com"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@ohos/hypium": "1.0.24"
+  }
+}
